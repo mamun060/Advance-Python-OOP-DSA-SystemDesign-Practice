@@ -3,7 +3,7 @@
 **Polymorphism** মানে হলো "**অনেক রূপ**"।  
 একই মেথড বা ফাংশন বিভিন্ন ক্লাসে **ভিন্নভাবে কাজ করতে পারে**।  
 এটি OOP-এর চারটি মূল স্তম্ভের একটি:  
-
+**Encapsulation, Abstraction, Inheritance, Polymorphism**
 ---
 
 ## Types of Polymorphism
