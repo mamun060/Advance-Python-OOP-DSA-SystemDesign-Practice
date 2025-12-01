@@ -47,8 +47,9 @@ for animal in animals:
 Dog বলে Woof!
 Cat বলে Meow!
 Animal শব্দ করে
-
+```
 ### 2️- Compile-time Polymorphism (Method Overloading এর সিমুলেশন Python-এ)
+```python
 class Math:
     def add(self, a, b, c=0):
         return a + b + c
@@ -58,6 +59,7 @@ print(m.add(2, 3))      # আউটপুট: 5
 print(m.add(2, 3, 4))   # আউটপুট: 9
 ```
 ---
+```
 | বৈশিষ্ট্য                 | উদাহরণ                                    |
 | ------------------------- | ----------------------------------------- |
 | Run-time Polymorphism     | Dog/Cat ক্লাসে `speak()` ওভাররাইড করা     |
