@@ -101,4 +101,88 @@ Each section focuses on progressively building your algorithmic thinking, coding
 * Understand stack memory behavior and base/recursive cases
 * Apply recursion to searching, sorting, and combinatorial problems
 * Build solutions for tree traversal, backtracking, and divide-and-conquer algorithms
+
+## 4. Problem Solving on Linked List
+* Introduction to Linked Lists
+* Singly Linked List Operations
+* Doubly Linked List Operations
+* Circular Linked List
+* Reverse a Linked List
+* Detecting and Removing Loops in Linked List
+* Merging Two Linked Lists
+* Finding Middle Element of Linked List
+* Intersection of Two Linked Lists
+* Clone a Linked List with Random Pointers
+* Sorting a Linked List
+* Implementing Stack and Queue using Linked List
+* Rotate a Linked List
+* Add Two Numbers Represented by Linked Lists
+
+### Learning Goals
+* Understand how linked lists work internally
+* Learn node creation, insertion, deletion, and traversal
+* Master pointer manipulation and loop detection
+* Handle advanced linked list problems (merge, rotate, reverse)
+
+---
+
+## 5. Problem Solving on Stack and Queue
+* Stack Operations and Applications
+* Implementing a Stack
+* Stack-Based Algorithms
+* Queue Operations and Applications
+* Implementing a Queue
+* Queue-Based Algorithms
+* Circular Queue
+* Priority Queue
+* Deque (Double-Ended Queue)
+* Applications of Stack in Parsing
+* Applications of Queue in Scheduling
+* Stack and Queue Problems in Coding Interviews
+
+### Learning Goals
+* Understand LIFO and FIFO data behavior
+* Implement stacks and queues using arrays and linked lists
+* Solve parsing, evaluation, and scheduling problems
+* Learn real-world stack and queue algorithm applications
+
+---
+
+## 6. Problem Solving on Sorting
+* Bubble Sort
+* Selection Sort
+* Insertion Sort
+* Merge Sort
+* Quick Sort
+* Heap Sort
+* Counting Sort
+* Radix Sort
+* Bucket Sort
+* Shell Sort
+
+### Learning Goals
+* Understand comparison-based and non-comparison sorting
+* Learn time–space complexity trade-offs
+* Implement classic sorting techniques from scratch
+* Choose appropriate sorting methods for real-world scenarios
+
+---
+
+## 7. Problem Solving on Searching
+* Linear Search
+* Binary Search
+* Interpolation Search
+* Exponential Search
+* Jump Search
+* Ternary Search
+* Search in Rotated Sorted Array
+* Search in 2D Matrix
+* Search in Bitonic Array
+* Search with Hashing
+
+### Learning Goals
+* Learn efficient search algorithms
+* Master binary search patterns
+* Solve matrix, rotated array, and bitonic search problems
+* Use hashing for constant-time search operations
 ---
