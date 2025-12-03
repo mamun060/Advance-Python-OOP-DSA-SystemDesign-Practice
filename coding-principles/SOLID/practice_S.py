@@ -1,9 +1,14 @@
-# one class should have only one responsibility
-
 class Invoice:
     def __init__(self, item):
         self.item = item
 
-    def totalSum()
+    def generate_invoice(self):
+        print("Invoice created")
 
-    
+    def udpate_invoice(self):  
+        print("Invoice updated.")
+
+
+invoiceOne = Invoice("Book")
+invoiceOne.generate_invoice()
+invoiceOne.udpate_invoice()
