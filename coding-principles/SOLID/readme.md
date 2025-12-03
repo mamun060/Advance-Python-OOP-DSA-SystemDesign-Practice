@@ -103,8 +103,6 @@ class UserService:
 * SRP = “Reason to Change” principle
 * Multiple related functions → allowed
 * Multiple unrelated functions → SRP break
-```
-
 ---
 
 ## O — Open/Closed Principle (OCP)
