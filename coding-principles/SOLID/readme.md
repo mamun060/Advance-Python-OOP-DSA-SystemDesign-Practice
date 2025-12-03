@@ -90,12 +90,19 @@ class UserService:
         print("Log:", message)
 
 **ফায়দা:** কোড পরিষ্কার, পরিবর্তন করা সহজ।
+```
+### Key Difference
 | উদাহরণ                                        | Class responsibility | SRP Status | ব্যাখ্যা                    |
 | --------------------------------------------- | -------------------- | ---------- | --------------------------- |
 | User CRUD + Email + Logging                   | Multiple unrelated   | ❌ Bad      | একাধিক reason to change     |
 | UserService: create/update/delete             | User Management      | ✔ Good     | এক responsibility           |
 | OrderService + DiscountService + EmailService | Each class one area  | ✔ Good     | এক responsibility per class |
 
+### Summary 
+* এক class → এক reason to change
+* SRP = “Reason to Change” principle
+* Multiple related functions → allowed
+* Multiple unrelated functions → SRP break
 ```
 
 ---
