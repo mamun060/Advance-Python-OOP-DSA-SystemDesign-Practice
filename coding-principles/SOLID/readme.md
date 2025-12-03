@@ -88,8 +88,16 @@ class UserService:
 
     def log(self, message):
         print("Log:", message)
-```
+
 **ফায়দা:** কোড পরিষ্কার, পরিবর্তন করা সহজ।
+| উদাহরণ                                        | Class responsibility | SRP Status | ব্যাখ্যা                    |
+| --------------------------------------------- | -------------------- | ---------- | --------------------------- |
+| User CRUD + Email + Logging                   | Multiple unrelated   | ❌ Bad      | একাধিক reason to change     |
+| UserService: create/update/delete             | User Management      | ✔ Good     | এক responsibility           |
+| OrderService + DiscountService + EmailService | Each class one area  | ✔ Good     | এক responsibility per class |
+
+```
+
 ---
 
 ## O — Open/Closed Principle (OCP)

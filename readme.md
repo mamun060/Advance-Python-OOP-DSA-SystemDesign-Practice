@@ -167,7 +167,6 @@ Each section focuses on progressively building your algorithmic thinking, coding
 * Choose appropriate sorting methods for real-world scenarios
 
 ---
-
 ## 7. Problem Solving on Searching
 * Linear Search
 * Binary Search
