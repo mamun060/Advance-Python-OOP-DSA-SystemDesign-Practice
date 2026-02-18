@@ -24,3 +24,5 @@ def notify_user(notification: Notification, message: str):
 notify_user(EmailNotification(), "Hello via Email!")
 notify_user(SMSNotification(), "Hello via SMS!")
 notify_user(PushNotification(), "Hello via Push Notification!")
+notify_user(PushNotification(), "Hello via Push Notification!")
+
