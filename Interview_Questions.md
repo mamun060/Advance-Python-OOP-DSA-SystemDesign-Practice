@@ -1,4 +1,4 @@
-# Bijoy Online — Interview Question Bank (with Model Answers)
+# Interview Question Bank (with Model Answers)
 ### ISP Billing & CRM Platform — Frontend & Backend Engineer Roles
 
 Organized by architectural layer: **Client (Frontend) → Service (Backend) → Data (Database)**
